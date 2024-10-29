@@ -1,0 +1,20 @@
+body {
+    color:red;
+    background-color: aliceblue;
+}
+
+body {
+    color: black;
+}
+
+#first-div {
+    color:green;
+}
+
+#second-div {
+    color:purple;
+}
+
+.first-class {
+    background-color: yellow ;
+}
