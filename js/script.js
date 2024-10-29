@@ -8,6 +8,7 @@ console.log(html);
 console.log(firstDiv);
 console.log(firstClassElements);
 
+
 firstDiv.addEventListener("click", changeColor);
 firstDiv.addEventListener("mouseover", firstDivOver);
 firstDiv.addEventListener("mouseout", firstDivOut);
